@@ -18,7 +18,7 @@ import {
   AudioVisualizerView,
   AudioVisualizerModule,
   type VisualizationStyle,
-} from 'react-native-audio-visualizer';
+} from '@nikhilpakhloo/react-native-audio-visualizer';
 
 const VISUALIZATION_STYLES: { name: VisualizationStyle; label: string }[] = [
   { name: 'strings', label: 'Siri Strings' },
