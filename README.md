@@ -45,7 +45,7 @@ Add this to your `Info.plist`:
 ### 1. The Visualization Component
 
 ```tsx
-import { AudioVisualizerView } from 'react-native-audio-visualizer';
+import { AudioVisualizerView } from '@nikhilpakhloo/react-native-audio-visualizer';
 
 // ...
 
@@ -61,7 +61,7 @@ import { AudioVisualizerView } from 'react-native-audio-visualizer';
 ### 2. Audio Control Module
 
 ```tsx
-import { AudioVisualizerModule } from 'react-native-audio-visualizer';
+import { AudioVisualizerModule } from '@nikhilpakhloo/react-native-audio-visualizer';
 
 // Start capturing audio
 const start = async () => {
