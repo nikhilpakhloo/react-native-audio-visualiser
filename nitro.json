@@ -1,0 +1,17 @@
+{
+  "cxxNamespace": ["audiovisualizer"],
+  "ios": {
+    "iosModuleName": "AudioVisualizer"
+  },
+  "android": {
+    "androidNamespace": ["audiovisualizer"],
+    "androidCxxLibName": "audiovisualizer"
+  },
+  "autolinking": {
+    "AudioVisualizer": {
+      "swift": "AudioVisualizer",
+      "kotlin": "AudioVisualizer"
+    }
+  },
+  "ignorePaths": ["node_modules"]
+}
