@@ -1,4 +1,4 @@
-# react-native-audio-visualizer 🎙️✨
+# @nikhilpakhloo/react-native-audio-visualizer 🎙️✨
 
 A high-performance, real-time audio visualization library for React Native, powered by [Nitro Modules](https://nitro.margelo.com/). Capture live microphone input and render beautiful, fluid visualizations with native performance.
 
@@ -20,7 +20,7 @@ A high-performance, real-time audio visualization library for React Native, powe
 ## 📦 Installation
 
 ```sh
-npm install react-native-audio-visualizer react-native-nitro-modules
+npm install @nikhilpakhloo/react-native-audio-visualizer react-native-nitro-modules
 ```
 
 > **Note**: `react-native-nitro-modules` is a required peer dependency.
