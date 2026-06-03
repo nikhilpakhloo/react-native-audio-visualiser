@@ -26,6 +26,8 @@ npm install @nikhilpakhloo/react-native-audio-visualizer react-native-nitro-modu
 > **Note**: `react-native-nitro-modules` is a required peer dependency.
 
 ### Permissions
+AUDIO 
+READ_EXTERNAL
 
 #### Android
 Add this to your `AndroidManifest.xml`:
